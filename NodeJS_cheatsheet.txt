@@ -1,0 +1,2 @@
+To exit running a script via node command:
+Ctrl + C
