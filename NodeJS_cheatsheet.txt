@@ -1,2 +1,5 @@
+Tutorial for setting up NodeJS for a web development environment via Digital Ocean:
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-18-04
+
 To exit running a script via node command:
 Ctrl + C
